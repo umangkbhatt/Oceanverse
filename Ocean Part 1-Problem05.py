@@ -4,7 +4,6 @@
 number = float(input("Please enter anumber: "))
 
 # This 'if' condition checks if number is even. 
-#  
 if number%2==0:
     print("Number is even")
 
